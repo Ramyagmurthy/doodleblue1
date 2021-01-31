@@ -1,0 +1,8 @@
+.not-found {
+  top: 0;
+  position: fixed;
+  width: 100vw;
+  height: 100vw;
+  background-color: #fff;
+  align-items: center;
+}
